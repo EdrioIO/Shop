@@ -260,7 +260,7 @@ public class shopselflearn {
 				}		
 				System.out.print("Thanks for using this program\n");
 				System.out.print("Terminating program...\n");
-//				System.exit(0);
+  				System.exit(0);
 			}
 			
 		}while(true);
